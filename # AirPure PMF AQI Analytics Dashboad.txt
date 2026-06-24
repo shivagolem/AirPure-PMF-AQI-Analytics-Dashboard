@@ -1,4 +1,4 @@
-# AirPure PMF AQI Analytics Dashboard
+README.md
 
 ## Project Overview
 
