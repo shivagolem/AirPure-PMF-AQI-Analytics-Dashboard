@@ -1,0 +1,71 @@
+# AirPure PMF AQI Analytics Dashboard
+
+## Project Overview
+
+The AirPure PMF AQI Analytics Dashboard analyzes air quality data across Indian cities to identify regions with poor air quality and potential market opportunities for air purifier products.
+
+The project combines SQL and Power BI to transform raw AQI data into actionable business insights.
+
+## Objectives
+
+* Analyze air quality trends across cities
+* Identify cities with high pollution levels
+* Evaluate pollutant concentration patterns
+* Support market expansion decisions for air purifier products
+* Create an interactive dashboard for decision-making
+
+## Tools & Technologies
+
+* SQL
+* Power BI
+* CSV Dataset
+* Data Analysis
+
+## Dataset
+
+The dataset contains:
+
+* City
+* Date
+* AQI (Air Quality Index)
+* Pollutant Levels (PM2.5, PM10, NO2, CO, SO2, O3)
+* AQI Category
+
+## SQL Analysis
+
+Performed:
+
+* Data exploration
+* AQI trend analysis
+* City-wise pollution comparison
+* Pollutant aggregation
+* KPI generation
+
+## Dashboard Features
+
+* Average AQI KPI
+* Most Polluted Cities
+* AQI Trend Analysis
+* Pollutant Distribution
+* City-wise Comparison
+* Interactive Filters and Slicers
+
+## Key Insights
+
+* Identified cities with consistently poor air quality
+* Analyzed major pollutant contributors
+* Tracked AQI changes over time
+* Highlighted potential markets for air purifier products
+
+## Skills Demonstrated
+
+* SQL Querying
+* Data Cleaning
+* Data Analysis
+* Power BI Dashboard Development
+* Data Visualization
+* Business Intelligence
+
+## Author
+
+Shiva
